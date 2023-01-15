@@ -26,3 +26,6 @@ Telegram channel https://t.me/tanzanite_tzn
 TWITTER www.twitter.com/tzntoken
 
  
+Join the DAO
+
+ https://www.xdao.app/56/dao/0x0900f000ec1EcC85A6c456E82625047c413967a7
