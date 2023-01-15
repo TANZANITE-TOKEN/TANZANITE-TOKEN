@@ -26,3 +26,4 @@ Telegram channel https://t.me/tanzanite_tzn
 TWITTER www.twitter.com/tzntoken
 
  
+https://bscscan.com/token/0x1B014B9B81f2450f31eA0C342A4A899Ff706BF3E
